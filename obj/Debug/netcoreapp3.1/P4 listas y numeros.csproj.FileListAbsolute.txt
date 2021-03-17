@@ -11,3 +11,16 @@ D:\programacion 1\P4 listas y numeros\obj\Debug\netcoreapp3.1\P4 listas y numero
 D:\programacion 1\P4 listas y numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.dll
 D:\programacion 1\P4 listas y numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.pdb
 D:\programacion 1\P4 listas y numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.genruntimeconfig.cache
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.exe
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.deps.json
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.runtimeconfig.json
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.runtimeconfig.dev.json
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.dll
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\bin\Debug\netcoreapp3.1\P4 listas y numeros.pdb
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.csprojAssemblyReference.cache
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.AssemblyInfoInputs.cache
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.AssemblyInfo.cs
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.csproj.CoreCompileInputs.cache
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.dll
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.pdb
+D:\programacion 1\P4 listas y numeros\Listas_y_Numeros\obj\Debug\netcoreapp3.1\P4 listas y numeros.genruntimeconfig.cache

@@ -22,6 +22,8 @@ namespace P4_listas_y_numeros
 
             numeros[5] = "8";
 
+            Console.WriteLine(" ");
+            
             for (int i = 0; i < 6; i++)
             {
                 Console.Write(numeros[i] + " ");
@@ -43,9 +45,11 @@ namespace P4_listas_y_numeros
 
             lista.Add(8);
 
+            Console.WriteLine(" ");
+
             for (int i = 0; i < lista.Count; i++)
             {
-                Console.WriteLine(lista[i] + " ");
+                Console.Write(lista[i]);
             }
             
             lista.Add(9);
@@ -65,10 +69,10 @@ namespace P4_listas_y_numeros
                     i = i - 1;
                 }
             }
-
+            Console.WriteLine(" ");
             for (int i = 0; i < lista.Count; i++)
             {
-                Console.WriteLine(lista[i] + " ");
+                Console.Write(lista[i]);
             }
 
             List<int> listaEnteros = new List<int>();
@@ -85,9 +89,10 @@ namespace P4_listas_y_numeros
 
             int NumeroMax = 0;
 
+            Console.WriteLine(" ");
             for (int i = 0; i < listaEnteros.Count; i++)
             {
-                Console.WriteLine(listaEnteros[i] + " ");
+                Console.Write(listaEnteros[i] + " ");
             }
 
             for(int i = 0; i < listaEnteros.Count; i++)
@@ -99,7 +104,8 @@ namespace P4_listas_y_numeros
 
                 }
             }
-            Console.WriteLine(NumeroMax);
+            Console.WriteLine(" ");
+            Console.WriteLine(NumeroMax + " ");
         }
     }
 }
